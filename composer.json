@@ -1,13 +1,13 @@
 {
-  "name": "pixelpeter/laravel5-genderize-api-client",
-  "description": "Laravel 5 client for the genderize.io API",
+  "name": "magdyHakam/laravel5-genderize-api-client",
+  "description": "Laravel client for the genderize.io API",
   "keywords": [
     "laravel",
     "api",
     "gender",
     "validation"
   ],
-  "homepage": "https://github.com/pixelpeter/laravel5-genderize-api-client",
+  "homepage": "https://github.com/magdyHakam/laravel5-genderize-api-client",
   "license": "MIT",
   "authors": [
     {
