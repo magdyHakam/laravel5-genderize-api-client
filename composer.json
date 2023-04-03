@@ -1,5 +1,5 @@
 {
-  "name": "magdyHakam/laravel5-genderize-api-client",
+  "name": "magdy-hakam/laravel5-genderize-api-client",
   "description": "Laravel client for the genderize.io API",
   "keywords": [
     "laravel",
@@ -14,6 +14,11 @@
       "name": "Peter Haak",
       "email": "info@pixelpeter.de",
       "homepage": "https://pixelpeter.de/",
+      "role": "Developer"
+    },
+    {
+      "name": "Magdy Hakam",
+      "email": "magdy.hakam@gmail.com",
       "role": "Developer"
     }
   ],
